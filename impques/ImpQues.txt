@@ -1,0 +1,32 @@
+Important Questions :-
+6 marks
+
+1.Design a react component display user info using state and props
+2.functional component jsx which displays list if items
+3.usestate hook istemaal to develop a application (any example)
+4.counter application +1 and -1 develop (important)
+5.useefect hook ka use karna hai to update the document title when state value changes 
+6.create a from which stores form data and submit and manages state 
+7.inline styles use and develop any appliaction.
+8.combine state and props in a parent child component structure to manage dataflow.
+9.light and dark mode (important)
+10.design a reusable component layout
+11.jsx ke andar inline styling kaise apply karni h
+MCQ's 
+12.custom hook format : use(hookname)
+13.what is virtual dom. improve performance by changing required components which improves efficiency 
+ternery operator
+unit 5 imp.
+react router
+global state management 
+10 marks
+Navigation bar with react router
+multipage application with react router
+a routing structure with react router that supports nested routes ad lazy loading 
+6 marks
+generate a Navigation bar that highlights active link by using react router navlink
+dynamic route handling ...
+react router for product details page 
+how you can navigate bw home and about by making use of react router 
+api call using axios
+to apply css bootstrap ,style attribute , css modules 
